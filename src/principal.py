@@ -7,3 +7,6 @@ print('Interfaz Frontend: Renderizada')
 print('FUNCIONALIDAD: Interfaz de usuario con diseño responsivo')
 print('Servidor Backend: Activo')
 print('FUNCIONALIDAD: Procesamiento de datos en el servidor')
+print('Base de datos')
+print('FUNCIONALIDAD: Almacenamiento persistente en base de datos SQL')
+
